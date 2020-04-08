@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 hmac="0.7.1"
 sha2="0.8.1"
+hex="0.4.2"
